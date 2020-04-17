@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertAndJWTSample", "CertAndJWTSample\CertAndJWTSample.csproj", "{6EB7C9E1-DDEC-46A9-9602-0161C898DEB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB7C9E1-DDEC-46A9-9602-0161C898DEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB7C9E1-DDEC-46A9-9602-0161C898DEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB7C9E1-DDEC-46A9-9602-0161C898DEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB7C9E1-DDEC-46A9-9602-0161C898DEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {139AB0E2-F3FE-4DF3-AD27-43AE5C4A46F1}
+	EndGlobalSection
+EndGlobal
